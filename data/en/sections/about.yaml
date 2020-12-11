@@ -18,14 +18,23 @@ company:
 resume: "files/resume.pdf"
 
 # a summary about you
-summary: 'I am a passionate software engineer with x years of working experience. I built OSS tools for [Kubernetes](https://kubernetes.io/) using GO. My tools help people to deploy their workloads in Kubernetes. Sometimes, I work on some fun projects such as writing a theme, etc.'
+summary: 'I''ve been programming since I was 10 years old, when I got a Commodore VIC-20 and a BASIC programming manual. My goal in life right now is to make the lives of developers and operators better, to reduce the toil, friction, and waste in our industry.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
-- name: Github
+- name: wasmCloud
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/wasmCloud"
+- name: My Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/autodidaddict"
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://www.twitter.com/KevinHoffman"
+- name: Twitter
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/%F0%9F%A6%80-kevin-hoffman-9252669/"
 
 # your soft skills
 # give the percentage between 50 to 100 with 5 intervals.
@@ -34,6 +43,12 @@ softSkills:
 - name: Leadership
   percentage: 85
   color: blue
-- name: Team Work
+- name: Strategy
   percentage: 90
   color: yellow
+- name: Communication
+  percentage: 100
+  color: pink
+- name: Education
+  percentage: 100
+  color: green

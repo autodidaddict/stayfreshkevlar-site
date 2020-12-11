@@ -2,7 +2,7 @@
 name: "Kevin Hoffman"
 nickname: "Kevin"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi, I am"
+greeting: "Welcome, I'm"
 image: "images/author/yoda_rabbi.jpeg"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -11,9 +11,9 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I turn napkin drawings into applications
-  - I am a builder
+  - I turn napkin drawings into applications  
+  - I am insufferably curious
   - I am a tinkerer
-  - I love distributed systems
-  - I work on open-source projects
-  - I am an author
+  - I write sci-fi, fantasy, and tech books
+  - I eat, sleep, and breathe distributed systems
+  - I work on open-source projects  

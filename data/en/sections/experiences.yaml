@@ -11,32 +11,65 @@ section:
 # Your experiences
 experiences:
 - company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
+    name: Capital One
+    url: "https://www.capitalone.com"
+    location: Boston / New York
     # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
+    overview: Capital One's mission is to change banking for good.
   positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
+  - designation: Distinguished Engineer
+    start: January 2017
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Was part of an internal consulting group that helped other teams migrate workloads to the cloud and modernize their application development processes and skills.
+    - Worked in the Technology Commercialization group
+    - Was part of the containerization and Kubernetes working groups
+    - Member of the Open Source committee
+    - Creator and maintainer of [wasmCloud](https://wasmcloud.com), a secure, open-source WebAssembly actor model with mesh network
+    - Developed and led multiple internal training and education efforts
+    - Taught classes virtually and in-person for Capital One tech associates
+    - Won multiple awards for technology accomplishments and leadership
 
 - company:
-    name: PreExample Co.
-    url: "https://www.preexample.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
+    name: Pivotal, Inc.
+    url: "https://tanzu.vmware.com/"
+    location: New York City
+    overview: Pivotal provided cloud native consulting and a commercial version of the Cloud Foundry product. They are now under the "Vmware Tanzu" umbrella organization
   positions:
   - designation: Software Engineer
-    start: March 2016
-    end: May 2017
+    start: August 2015
+    end: December 2017
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Provided technical leadership for on-site engagements with Fortune 500 companies providing services from application migration (cloud native refactor) to Cloud Foundry consulting to more general distributed systems consulting
+    - Worked on internal tools that automatically created ad-hoc Cloud Foundry lab environments for field personnel
+    - Gained proficiency and expertise with a number of technologies, including Cloud Foundry, RabbitMQ, Go, Ruby, Java, Spring Boot
+    - One of the founders of "Steel Toe", a .NET open source project for building Spring Cloud Framework-compatible applications
+
+- company:
+    name: Clear, Inc.
+    url: "https://www.clearme.com"
+    location: New York City
+    overview: Clear provides fast, biometric-based easy access systems in airports, baseball stadiums, and other venues.
+  positions:
+  - designation: Lead Platform Engineer
+    start: January 2013
+    end: July 2015
+    responsibilities:
+    - Led the effort to migrate on-site (airport) biometrics to "Biometrics as a Service" cloud-based verification
+    - Worked with multiple hardware vendors to source and build a rugged outdoor tablet that can take fingerprints in direct sunlight and the rain
+    - Led the effort and nearly all of the initial coding for Clear's first baseball park "Fast Access" lane (Android, Cloud services)
+
+- company:
+    name: Barclays Capital
+    url: "https://www.investmentbank.barclays.com/"
+    location: New York City
+    overview: Investment bank arm of the Barclays global bank headquartered in London
+  positions:
+  - designation: Vice President
+    start: 2011
+    end: 2013
+    responsibilities:
+    - Created, developed, and maintained a flexible, auto-scaling platform used by multiple application teams to build electronic trading applications
+    - Developed tooling, processes, and web applications around sharing of messaging protocols and schemas between different teams throughout the bank

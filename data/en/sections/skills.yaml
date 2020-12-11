@@ -13,14 +13,32 @@ section:
 skills:
 - name: Kubernetes
   icon: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "I earned a **CKA** (Certified Kubernetes Administrator) certificate. Have built and deployed all manner of solutions in and above Kubernetes."
   url: "https://kubernetes.io/"
 
 - name: Go Development
   icon: "/images/sections/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+  summary: "I've spent multiple years using Go as a primary development language."
   url: "https://golang.org/"
 
 - name: Cloud Computing
   icon: "/images/sections/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "I eat, sleep, and breathe the cloud and all things distributed systems. I've deployed and managed production workloads on all of the major cloud providers."
+
+- name: Linux
+  icon: "/images/sections/skills/linux.png"
+  summary: "For years now my main development and testing environment has been various flavors of Linux."
+
+- name: Rust
+  icon: "/images/sections/skills/rust-logo-blk.svg"
+  summary: "I have been developing in Rust for many years, building crates for all kinds of problems from natural language processing of die rolls to mesh network and WebAssembly host runtimes"
+  url: "https://www.rust-lang.org"
+
+- name: WebAssembly
+  icon: "/images/sections/skills/webassembly.png"
+  summary: "I'm the author of the book **Programming WebAssembly with Rust**, a member of multiple WebAssembly committees and groups, and the creator of wasmCloud, a WebAssembly host runtime for secure cloud, edge, and IoT computing."
+
+- name: Elixir
+  icon: "/images/sections/skills/elixir_logo.jpg"
+  summary: "I develop in Elixir whenever I can. I am a huge fan of functional programming, the Phoenix web application framework, and using OTP for massive scale reliable distributed systems."
+  url: "https://elixir-lang.org/"
